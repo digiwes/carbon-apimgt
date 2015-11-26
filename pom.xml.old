@@ -837,8 +837,8 @@
 	<nimbusds.version>2.26.1.wso2v3</nimbusds.version>
 
         <!-- Carbon kernel version -->
-        <wso2carbon.version>4.4.2</wso2carbon.version>
-        <carbon.kernel.version>4.4.2</carbon.kernel.version>
+        <wso2carbon.version>4.4.0</wso2carbon.version>
+        <carbon.kernel.version>4.4.1</carbon.kernel.version>
 	   <carbon.commons.version>4.4.8</carbon.commons.version>
 
          
@@ -862,7 +862,7 @@
 
         <!-- Axis2 Version -->
         <axis2.wso2.version>1.6.1-wso2v11</axis2.wso2.version>
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <axis2-transports.version>1.6.1-wso2v11</axis2-transports.version>
         <axis2.osgi.version.range>[1.6.1.wso2v11, 1.7.0)</axis2.osgi.version.range>
         <orbit.version.wsdl4j>1.6.2.wso2v4</orbit.version.wsdl4j>
@@ -877,7 +877,7 @@
 
         <!-- Apache Axiom -->
         <axiom.version>1.2.11-wso2v6</axiom.version>
-        <orbit.version.axiom>1.2.11.wso2v9</orbit.version.axiom>
+        <orbit.version.axiom>1.2.11.wso2v6</orbit.version.axiom>
         <axiom.wso2.version>1.2.11.wso2v6</axiom.wso2.version>
         <exp.pkg.version.axiom>1.2.11.wso2v6</exp.pkg.version.axiom>
         <imp.pkg.version.axiom>[1.2.11.wso2v6, 1.3.0)</imp.pkg.version.axiom>
@@ -899,19 +899,19 @@
         <!-- Misc Versions -->
         <orbit.version.h2.engine>1.2.140.wso2v3</orbit.version.h2.engine>
         <hostobjects.version>1.0.0</hostobjects.version>
-        <carbon.identity.version>5.0.2</carbon.identity.version>
+        <carbon.identity.version>4.5.6</carbon.identity.version>
         <wso2carbon.version.identity>${project.version}</wso2carbon.version.identity>
         <axis2.wso2.version.identity>${axis2.wso2.version}</axis2.wso2.version.identity>
         <axiom.wso2.version.identity>${axiom.wso2.version}</axiom.wso2.version.identity>
-        <synapse.version>2.1.4-wso2v1</synapse.version>
+        <synapse.version>2.1.3-wso2v5</synapse.version>
         <synapse.version.identity>${synapse.version}</synapse.version.identity>
         <synapse.version.handlers>${synapse.version}</synapse.version.handlers>
         <throttle.version.handlers>3.3.0</throttle.version.handlers>
 
         <libthrift.wso2.version>0.7.wso2v1</libthrift.wso2.version>
         <orbit.version.json>2.0.0.wso2v1</orbit.version.json>
-        <httpcomponents.version>4.3.4</httpcomponents.version>
-        <google.code.gson.version>2.4</google.code.gson.version>
+        <httpcomponents.version>4.2.5</httpcomponents.version>
+        <google.code.gson.version>2.2.4</google.code.gson.version>
         <dblock.waffle.version>1.6.wso2v1</dblock.waffle.version>
         <commons-io.version>2.4.0.wso2v1</commons-io.version>
         <commons-lang.version>2.6.0.wso2v1</commons-lang.version>
@@ -920,7 +920,7 @@
         <rhino.js.version>1.7.0.R4.wso2v1</rhino.js.version>
         <owasp.encoder.version>1.1</owasp.encoder.version>
         <httpclient.version>4.3.1.wso2v2</httpclient.version>
-        <commons-logging.version>1.2</commons-logging.version>
+        <commons-logging.version>1.1.1</commons-logging.version>
         <h2-database-engine.version>1.2.140.wso2v3</h2-database-engine.version>
         <Saxon-HE.version>9.4</Saxon-HE.version>
 	    <saxon.wso2.version>9.4.0.wso2v1</saxon.wso2.version>
@@ -950,7 +950,7 @@
         <org.jaggery.version>0.11.2</org.jaggery.version>
 
         <!-- carbon deployment -->
-        <carbon.deployment.version>4.5.3</carbon.deployment.version>
+        <carbon.deployment.version>4.4.1</carbon.deployment.version>
     </properties>
 </project>
 
