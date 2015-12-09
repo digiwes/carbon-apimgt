@@ -862,7 +862,7 @@
 
         <!-- Axis2 Version -->
         <axis2.wso2.version>1.6.1-wso2v11</axis2.wso2.version>
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <axis2-transports.version>1.6.1-wso2v11</axis2-transports.version>
         <axis2.osgi.version.range>[1.6.1.wso2v11, 1.7.0)</axis2.osgi.version.range>
         <orbit.version.wsdl4j>1.6.2.wso2v4</orbit.version.wsdl4j>
@@ -908,9 +908,9 @@
         <synapse.version.handlers>${synapse.version}</synapse.version.handlers>
         <throttle.version.handlers>3.3.0</throttle.version.handlers>
 
-        <libthrift.wso2.version>0.7.wso2v1</libthrift.wso2.version>
+        <libthrift.wso2.version>0.8.0.wso2v1</libthrift.wso2.version>
         <orbit.version.json>2.0.0.wso2v1</orbit.version.json>
-        <httpcomponents.version>4.3.4</httpcomponents.version>
+        <httpcomponents.version>4.3.3</httpcomponents.version>
         <google.code.gson.version>2.4</google.code.gson.version>
         <dblock.waffle.version>1.6.wso2v1</dblock.waffle.version>
         <commons-io.version>2.4.0.wso2v1</commons-io.version>
