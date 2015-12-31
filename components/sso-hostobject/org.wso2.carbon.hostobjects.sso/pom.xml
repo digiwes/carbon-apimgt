@@ -101,7 +101,11 @@
                         <Export-Package>
                             org.wso2.carbon.hostobjects.sso.*;
                         </Export-Package>
-                        <DynamicImport-Package>*</DynamicImport-Package>
+                       <!-- <Import-Package>
+                            javax.xml.parsers;version="[0.0.0, 0.1.0)";
+                        </Import-Package> 
+                        -->
+                        <DynamicImport-Package>*,javax.xml.parsers;version='[0.0.0,0.1.0]'</DynamicImport-Package>
                     </instructions>
                 </configuration>
             </plugin>
